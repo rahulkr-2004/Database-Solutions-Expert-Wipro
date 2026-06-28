@@ -1,1 +1,1 @@
-# Normalization
+# Introduction to RDBMD Mini Project
