@@ -124,7 +124,7 @@ By completing the **Wipro Database Solutions Expert Program**, I aim to:
 
 ## 📖 About
 
-This repository documents my progress throughout the **Wipro Database Solutions Expert Program**. Each module contains assignments and mini projects that apply database concepts to practical scenarios. The repository demonstrates my understanding of database design, SQL programming, PL/SQL development, Oracle Database Administration, and database performance optimization while serving as a portfolio of my practical work.
+This repository documents my progress throughout the **Wipro Database Solutions Expert Program**. Each module contains assignments and mini projects that apply databases concepts to practical scenarios. The repository demonstrates my understanding of database design, SQL programming, PL/SQL development, Oracle Database Administration, and database performance optimization while serving as a portfolio of my practical work.
 
 ---
 
